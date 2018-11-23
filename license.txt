@@ -1,2 +1,2 @@
-this is the fiest stashing environment\
+this is the fiest stashing environment
 for stashing
